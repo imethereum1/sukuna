@@ -14,8 +14,7 @@ ADMIN_CHAT_ID = 7593930576
 # File paths
 PREMIUM_USERS_FILE = "premium_users.txt"
 PROXY_FILE = "proxy.txt"
-UA_FILE = "user-agents.txt"
-
+UA_FILES = ["a.txt", "d.txt", "s.txt"]
 # Global variables
 is_attack_running = False
 
